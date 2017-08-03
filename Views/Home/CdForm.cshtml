@@ -1,0 +1,9 @@
+<h1>Add your Cd</h1>
+
+<form action='/cds' method="post">
+<input type="hidden" name="selectedArtist" id="selectedArtist" value='@Model["artist"].GetId()'>
+<label for="cd-input">Title</label>
+<input type="text" name="cd-input" id="cd-input">
+<button type="submit" class="btn">Submit!</button>
+</form>
+<p><a href="/">Home</a></p>

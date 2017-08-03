@@ -1,0 +1,16 @@
+<h1>@Model["artist"].GetName()</h1>
+
+@if(@Model["cds"].Count == 0)
+{
+  <p>No CDs.</p>
+}
+<ul>
+@foreach(var artist in Model["cds"])
+{
+  <li>@artist.GetTitle()</li>
+}
+</ul>
+
+<p><a href="/">Home</a></p>
+<p><a href='/artistDetails/@Model["artist"].GetId()/new'>Add CD</a></p>
+<p><a href='/artists'>Your Artists</a></p>

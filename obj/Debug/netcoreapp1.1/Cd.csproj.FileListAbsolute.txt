@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/cd/bin/Debug/netcoreapp1.1/Cd.deps.json
+/Users/Guest/Desktop/cd/bin/Debug/netcoreapp1.1/Cd.runtimeconfig.json
+/Users/Guest/Desktop/cd/bin/Debug/netcoreapp1.1/Cd.runtimeconfig.dev.json
+/Users/Guest/Desktop/cd/obj/Debug/netcoreapp1.1/Cd.AssemblyInfo.cs
+/Users/Guest/Desktop/cd/bin/Debug/netcoreapp1.1/Cd.dll
+/Users/Guest/Desktop/cd/bin/Debug/netcoreapp1.1/Cd.pdb
+/Users/Guest/Desktop/cd/obj/Debug/netcoreapp1.1/Cd.dll
+/Users/Guest/Desktop/cd/obj/Debug/netcoreapp1.1/Cd.pdb

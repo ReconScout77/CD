@@ -1,0 +1,10 @@
+<h1>Your Musical Artists</h1>
+
+<ul>
+@foreach(var artist in Model)
+{
+  <li><a href="/artistdetails/@artist.GetId()">@artist.GetName()</li>
+}
+</ul>
+<p><a href="/">Home</a></p>
+<p><a href="/artistform">Add an Artist</a></p>
